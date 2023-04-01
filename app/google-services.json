@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887393949851",
+    "project_id": "fir-workshop-20e62",
+    "storage_bucket": "fir-workshop-20e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887393949851:android:a948d8e5a9f762e0860e3e",
+        "android_client_info": {
+          "package_name": "com.ajdev.firebaseworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887393949851-lhp6d7u3f16inrk2isti0nvl1eufmcmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfHKfAwaGCujXOzf9NwPamelzNBe0gY8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887393949851-lhp6d7u3f16inrk2isti0nvl1eufmcmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
